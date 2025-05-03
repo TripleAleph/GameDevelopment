@@ -1,6 +1,7 @@
 # 🕹️ Game Development – Unity Game Project – Fantasy Adventure Prototype
 
-BS.c Computer Science - Game Development Course - Final Project
+BS.c Computer Science - Game Development Course - Final Project.
+
 This repository contains a Unity-based game prototype created as part of my studies in Computer Science. The game is a fantasy-themed third-person experience built using Unity's game engine, with custom-designed levels, characters, and interaction systems.
 
 ## 🎯 Project Overview

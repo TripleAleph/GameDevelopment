@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4f1f5fe7c60c4814aa93c01eaa656572
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Common/Samples/CombinedEffects/SampleSceneBRP/LiquidBakedState.bytes
+  uploadId: 663748

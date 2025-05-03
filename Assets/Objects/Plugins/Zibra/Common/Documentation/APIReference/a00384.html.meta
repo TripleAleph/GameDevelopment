@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c267f93469c76324787d332b9b65d2bd
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Common/Documentation/APIReference/a00384.html
+  uploadId: 663748

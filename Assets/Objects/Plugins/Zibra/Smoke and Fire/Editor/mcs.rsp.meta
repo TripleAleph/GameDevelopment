@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48157aae5dc84a74a38571e92f6eb9c1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Smoke and Fire/Editor/mcs.rsp
+  uploadId: 663748

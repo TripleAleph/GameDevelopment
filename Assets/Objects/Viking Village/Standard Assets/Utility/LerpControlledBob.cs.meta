@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c1bbfafbde15c854681023b9e01e12dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29140
+  packageName: Viking Village URP
+  packageVersion: 1.1.1
+  assetPath: Assets/Viking Village/Standard Assets/Utility/LerpControlledBob.cs
+  uploadId: 496047

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7c55f08b42b948e89370fa3a31a768f3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Smoke and Fire/Shaders/UpscaleShader.shader
+  uploadId: 663748

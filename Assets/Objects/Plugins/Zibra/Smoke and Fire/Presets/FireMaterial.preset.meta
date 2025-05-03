@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7bfcbfdac8ae86c489b01b3b774bb44c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Smoke and Fire/Presets/FireMaterial.preset
+  uploadId: 663748

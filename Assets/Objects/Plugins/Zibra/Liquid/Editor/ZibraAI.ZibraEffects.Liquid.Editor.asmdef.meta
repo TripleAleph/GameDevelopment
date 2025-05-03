@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e9f112ee6b2f8c549bd6998d69c45bbc
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Liquid/Editor/ZibraAI.ZibraEffects.Liquid.Editor.asmdef
+  uploadId: 663748

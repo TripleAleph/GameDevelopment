@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1aec6be9b39611247b96bd1a801161e5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Smoke and Fire/Samples/SmokeAndFireSampleURP.unity
+  uploadId: 663748

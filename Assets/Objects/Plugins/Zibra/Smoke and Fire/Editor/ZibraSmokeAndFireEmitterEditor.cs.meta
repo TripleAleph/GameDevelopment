@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f15f9774cc0464c8a15bf5f63f91d02
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Smoke and Fire/Editor/ZibraSmokeAndFireEmitterEditor.cs
+  uploadId: 663748

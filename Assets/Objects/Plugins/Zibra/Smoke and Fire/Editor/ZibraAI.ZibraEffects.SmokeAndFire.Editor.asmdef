@@ -1,0 +1,37 @@
+{
+    "name": "ZibraAI.ZibraEffects.SmokeAndFire.Editor",
+    "rootNamespace": "com.zibra.smoke_and_fire.Editor",
+    "references": [
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "ZibraAI.ZibraEffects",
+        "ZibraAI.ZibraEffects.SmokeAndFire",
+        "ZibraAI.ZibraEffects.SmokeAndFire.Bridge",
+        "ZibraAI.ZibraEffects.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_2021_3_OR_NEWER"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "",
+            "define": "UNITY_PIPELINE_HDRP"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "",
+            "define": "UNITY_PIPELINE_URP"
+        }
+    ],
+    "noEngineReferences": false
+}

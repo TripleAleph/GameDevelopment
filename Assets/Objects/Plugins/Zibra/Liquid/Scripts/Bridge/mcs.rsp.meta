@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ceac78a29ae9901479bf26ce2bfb7ec6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Liquid/Scripts/Bridge/mcs.rsp
+  uploadId: 663748

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ea287bb6c91fd149aa537af111e05d4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Liquid/Samples/Assets/BRP/Plaster.mat
+  uploadId: 663748

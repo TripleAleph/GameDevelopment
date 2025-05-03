@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75f9225db2dabba4f887ce4f3888ae9e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Smoke and Fire/Scripts/Bridge/csc.rsp
+  uploadId: 663748

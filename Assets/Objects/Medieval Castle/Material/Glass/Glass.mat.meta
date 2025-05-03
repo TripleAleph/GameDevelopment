@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd0da07b2d29ce64881b80caa72b2296
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 227378
+  packageName: Medieval_Castle
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Castle/Material/Glass/Glass.mat
+  uploadId: 512561

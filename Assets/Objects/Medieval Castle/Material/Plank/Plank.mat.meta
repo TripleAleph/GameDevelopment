@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 007f61e52955b174fa7220e62e7f37e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 227378
+  packageName: Medieval_Castle
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Castle/Material/Plank/Plank.mat
+  uploadId: 512561

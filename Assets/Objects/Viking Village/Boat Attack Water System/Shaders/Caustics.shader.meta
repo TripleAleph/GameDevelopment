@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 90939d2e4b62841d29c136c866715501
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _CausticMap: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29140
+  packageName: Viking Village URP
+  packageVersion: 1.1.1
+  assetPath: Assets/Viking Village/Boat Attack Water System/Shaders/Caustics.shader
+  uploadId: 496047

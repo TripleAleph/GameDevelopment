@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4a712be71b4bcba46a4537634cce35ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Common/Scripts/DataStructures/VoxelRepresentation.cs
+  uploadId: 663748

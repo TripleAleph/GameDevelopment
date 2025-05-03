@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9ff797728ed5434c9fef1c471193907
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244461
+  packageName: 'Zibra Effects: VR/AR Solution (Subscription)'
+  packageVersion: 2.1.5
+  assetPath: Assets/Plugins/Zibra/Smoke and Fire/Samples/Assets/HDRP/BlueLight.mat
+  uploadId: 663748
